@@ -3,7 +3,7 @@ GAME WHICH ALLOWS PESHWAS TO KILL OTHER INSIGNIFICANT HALLS BY SUTTA BULLET
 
 # IIT K Hall Killer - A Space Arcade Spinoff
 
-Welcome to IIT K Hall Killer, a Python game developed using the Pygame library. In this game, you take on the role of a fierce Hall 12 Peshwa, aiming to eliminate rival halls such as Galaxy, Winner is Shauryas, and more, using your signature cigarette butt.
+Welcome to IIT K Hall Killer, a Python game developed using the Pygame library. In this game, you take on the role of a fierce Hall 12 Peshwa, aiming to eliminate rival halls such as Galaxy Winner  Shauryas, and more, using your signature cigarette butt.
 
 ## Game Rules:
 
